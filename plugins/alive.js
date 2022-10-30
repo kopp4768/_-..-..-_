@@ -7,7 +7,7 @@ const {
   FancyRandom,
   getListFromCommand,
   skbuffer
-} = require("raganork-bot");
+} = require("ZARA");
 const {
   Module,
   commands
@@ -34,13 +34,12 @@ Module({
   var buttons = [{
     urlButton: {
         displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        url: 'https://github.com/kopp4768/ZARA'
     }
 }, {
   urlButton: {
     displayText: 'Contact Owner',
-    url: 'https://wa.me/'+BOT_INFO.split(";")[2]+'?text=*Hey+'+BOT_INFO.split(";")[1]+'*'
-    }
+    
 }, {
     quickReplyButton: {
         displayText: 'All commands',
