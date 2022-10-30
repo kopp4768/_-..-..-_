@@ -1,4 +1,4 @@
-/* Copyright (C) 2022 Sourav KL11.
+I/* Copyright (C) 2022 Sourav KL11.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 Raganork MD - Sourav KL11
@@ -92,6 +92,7 @@ Module({
         }
     );
 }));
+const array = [´AMAL´,´_⛦..൨ഞ്ച᭄ക്ക൭പ്പട്ട൨ൻ..⛦_`]
 Module({
     on: 'button',
     fromMe: false
